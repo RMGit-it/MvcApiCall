@@ -1,0 +1,6 @@
+EnvironmentVariables.cs
+*/obj/
+*/bin/
+.vscode
+.DS_Store
+coverage.json
